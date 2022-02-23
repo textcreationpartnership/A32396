@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation declaring His Majesties grace and favour towards all commanders and seamen to prizes and prize-goods seized and taken since the month of January, 1642, until the twenty ninth of May, 1660.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32396</idno>
+            <idno type="STC">Wing C3282</idno>
+            <idno type="STC">ESTC R36123</idno>
+            <idno type="EEBO-CITATION">15608429</idno>
+            <idno type="OCLC">ocm 15608429</idno>
+            <idno type="VID">104094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1588:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation declaring His Majesties grace and favour towards all commanders and seamen to prizes and prize-goods seized and taken since the month of January, 1642, until the twenty ninth of May, 1660.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Hampton-Court, the fourteenth day of July, 1662 in the fourteenth year of our reign."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prizes --  England.</term>
+               <term>Privateering --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:104094:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION Declaring His Majeſties grace and favour towards all Commanders and Seamen in relation to Prizes and Prize-goods, ſeized and taken ſince the month of <hi>January</hi> 1642. until the Twenty ninth of <hi>May,</hi> 1660.</head>
+            <opener>
+               <signed>
+                  <hi>CHARLES</hi> R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings moſt Excellent Majeſty having taken into His moſt Gracious and Princely conſideration the humble Petition of ſeveral Captains and Officers of His Majeſties Fleets, on the behalf of themſelves and others the Commanders, Officers, and Mariners imployed in Sea-ſervice ſince the year <hi>1642.</hi> Whereby His Majeſty is given to underſtand, that divers of the Petitioners now are, and have been ſued, moleſted, and impriſoned concerning ſeveral Prizes and Prize-goods by them heretofore ſeized and taken ſince the month of <hi>January 1642;</hi> and before the Twenty ninth of <hi>May 1660;</hi> upon pretence or colour of ſome clauſe or words in a late Act of Parliament, Intituled, <hi>An Act for the proſecution of ſuch as are accompta<g ref="char:EOLhyphen"/>ble for Prize-goods,</hi> contrary (as they conceive) to the Grate and Favour extended as well towards them as other His Majeſties Subjects in and by His Majeſties moſt Gratious Act of Free and General Pardon, Indempnity and Oblivion; and that unleſs ſome timely remedy be applied, ſuch proſecu<g ref="char:EOLhyphen"/>tions are ſtill likely to be made and continued againſt them, and other Commanders and Mariners, who have likewiſe acted in the Fleets within the times aforeſaid, although in truth they never were Treaſurers,
+<pb facs="tcp:104094:2"/>
+               <!-- PDF PAGE 2 -->
+Receivers, Farmers, or Collectors of ſuch Prize-goods, nor accomptable for any money or other duties, grown due or contracted upon the ſale or diſpoſition thereof, nor Sub-collectors, Vnder-treaſurers, Com<g ref="char:EOLhyphen"/>miſſioners, Sub-commiſſioners of Prize-goods, or any their Caſheriers, Officers, Deputies, or Receivers nor Contractors for the ſame after any adjudication thereof, to the great unſetling of the minds of many thouſands of His Majeſties Loyal and uſeful Subjects, who did apprehend themſelves pardoned and in peace by His Majeſties ſaid Gracious Act of Free Pardon, Indempnity and Oblivion: And His Majeſty thereupon deeply reſenting the condition of the Petitioners (and other his good Subjects, on whoſe behalf they have made their Addreſs as aforeſaid, in relation to the premiſſes) and being fully ſatisfied of their du<g ref="char:EOLhyphen"/>tiful affections unto His Majeſties Royal Perſon and Government, for their relief therein, and for their future encouragement to perſevere in His Majeſties ſervice, is moſt graciouſly pleaſed to publiſh and declare, And His moſt Excellent Majeſty (by and with the advice and conſent of His Privy Councel) hath, and hereby doth publiſh and declare His Royal Will and Pleaſure, and accordingly require and command, That all and ſingular Proceſs and Proceedings whatſoever, which vefore this time have been, now are, or may be at any time hereafter had, ſued forth, or proſecuted in any of His Majeſties Courts at <hi>Weſtminſter,</hi> or in the High Court of Admiralty of <hi>England,</hi> or elſewhere, within any of His Majeſties Dominions, againſt any perſon or perſons whatſoever, who have been imployed in Sea-ſervice, at any time or times, ſince the month of <hi>January</hi> in the year of our Lord <hi>1642.</hi> and before the Twenty ninth of <hi>May 1660.</hi> (as Admirals, Vice-Admirals, Captains of ſhips, Officers or Mariners, not having been within the times aforeſaid, ap<g ref="char:EOLhyphen"/>pointed Treaſurers, Receivers, Farmers, or Collectors of Prize-goods; nor ſuch who are accomptable for any ſum or ſums of money, or other duties grown due or contracted upon the ſale or diſpoſition of any ſuch Prize-goods, nor that have been Sub-collectors, Vnder-treaſurers, Commiſſioners, Sub-commiſſion<g ref="char:EOLhyphen"/>ners of Prize-goods, or any their Caſheires, Officers, Deputies, or Receivers, for or by reaſon of any Ships, Plate, Iewels, Bullion, Money, or other things whatſoever, ſeized or taken by them, or any of them, for, or as Prize or Prize-goods within the times aforeſaid) be forthwith and for ever hereafter diſallowed, ſtayed, and diſcharged; And that from henceforth they the ſaid Admirals, Vice-Admirals, Captains of ſhips, Of<g ref="char:EOLhyphen"/>ficers, Mariners, or any of them (not ſo appointed or imployed in any of the ſaid Offices or places, or ac<g ref="char:EOLhyphen"/>comptable as aforeſaid) ſhall not, nor may by vertue force or colour of any Proceſs or Proceedings whatſoever in any of His Majeſties ſaid Courts, or elſewhere, be in any wiſe arreſted, diſquieted, queſtioned, or trou<g ref="char:EOLhyphen"/>bled, either in their perſons, lands, or goods, for or by reaſon of any Prizes or Prize-goods, by them, or any of them, ſo as aforeſaid, ſeized or taken within the time aforeſaid; And that all and every of them that now are, or lately have been ſued, moleſted or troubled, for or concerning any ſuch Prizes or Prize-goods, whether they or any of them are now in Priſon, or at large upon Bail, or otherwiſe be forthwith ſet at liberty, and the Securities, Bails or Cautions, by them, or any of them, or any others for them, or any of them, there<g ref="char:EOLhyphen"/>fore given or entred into, or to be given or entred into, be forthwith delivered up, vacated, and diſcharged; And all and every the ſaid perſons cleerly and abſolutely diſcharged from any attendance in or about the pre<g ref="char:EOLhyphen"/>miſſes. And His Majeſty doth hereby require and command His High Chancellor, and High Treaſurer of <hi>England,</hi> the Iuſtices of the one Bench, and the other, the Barons of His Majeſties Exchaquer, and His Atturney General for the time being, and all other His Majeſties Officers and Miniſters whatſoever, to whom it doth, ſhall, or may appertain, in their reſpective places and truſts, to cauſe this His Royal Pro<g ref="char:EOLhyphen"/>clamation in all things, for the eaſe and benefit of His ſaid loving-Subjects (to whom this His Grace and
+<pb facs="tcp:104094:3"/>
+               <!-- PDF PAGE 3 -->
+Favour is extended) to be duly obſerved and performed. And to the end this His Majeſties pleaſure and commandment may be duly and effectually performed and obſerved in the premiſſes, His Majeſty doth like<g ref="char:EOLhyphen"/>wiſe will and command, That in all and every His Majeſties Courts at <hi>Weſtminſter,</hi> where any ſuch pro<g ref="char:EOLhyphen"/>ceedings againſt any of His Majeſties ſaid Subjects have been, are, or ſhall be had or proſecuted for or by reaſon of any ſuch Prizes or Prize-goods, His Majeſties Attorney General for the time being, do immediate<g ref="char:EOLhyphen"/>ly at the requeſt or requeſts of the party or parties concerned, and without expecting any further or other Warrant from His Majeſty, cauſe a <hi>Nolle Proſequi</hi> to be thereupon entred and ſuch other diſcharges there<g ref="char:EOLhyphen"/>of made and given on His Majeſties behalf, as the nature of the cauſe ſhall require; And in like manner His Majeſty doth alſo require and command that the Iudge or Iudges of the High Court of Admiralty of <hi>England</hi> for the time being, and His Majeſties Advocate, and ſuch other of His Majeſties Councel, as His Majeſty hath already nominated and appointed, or ſhall particularly nominate and appoint in this behalf, by Warrant under his Sign Manual, to ſue in His Majeſties name, and to His Majeſties uſe in the ſaid Court of Admiralty, or elſewhere, any of the perſons aforeſaid, to whom this His Majeſties Grace and Royal Favour is extended in the premiſſes, and all and ſingular other His Majeſties Officers and Miniſters what<g ref="char:EOLhyphen"/>ſoever, to whom it ſhall or may appertain, That they and every of them do forthwith ſurceaſe all further pro<g ref="char:EOLhyphen"/>ſecution of all and every Suit or Suits, or other proceedings whatſoever againſt the ſaid perſons (not being ſo appointed or employed in any of the ſaid Offices or places, or accomptable as aforeſaid) for any the matters aforeſaid, upon pain of His Majeſties high diſpleaſure, and ſuch further puniſhments as His Majeſty may juſtly inflict upon them, if they or any of them ſhall preſume to break or neglect this His Royal Commandment. And for the future Quiet and Indempnity of His Majeſties ſaid loving Subjects, to whom this His Majeſties Grace and Favour is thus extended; His Majeſty doth by theſe Preſents notifie and declare, That His Majeſty is and will be ready and willing to grant His Free and Gracious Pardon, under His Majeſties Great Seal of <hi>England,</hi> for all and every the matters and things aforeſaid, unto ſuch of them as ſhall make their humble Petitions unto His Majeſty for the ſame.</p>
+            <closer>
+               <dateline>Given at Our Court at Hampton-Court, <date>the Fourteenth day of July, 1662. in the Fourteenth year of Our Reign.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
